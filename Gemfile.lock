@@ -34,6 +34,7 @@ GEM
     minitest (5.8.0)
     multi_json (1.11.2)
     multi_xml (0.5.5)
+    oj (2.12.1)
     rack (1.6.4)
     rack-accept (0.4.5)
       rack (>= 0.4)
@@ -53,6 +54,7 @@ PLATFORMS
 
 DEPENDENCIES
   grape
+  oj
 
 BUNDLED WITH
    1.10.6
